@@ -43,3 +43,31 @@ layer 3 uses ip addresses and routers for end to end communication between the h
 Layer 2 uses MAC addresses for hop-hop communication, switches do not count as hops.(frame or L2PDU)
 
 Layer 1 is the physical layer.(bits)
+---
+Day 4:
+
+CLI Intro
+
+<img width="312" height="221" alt="day4b" src="https://github.com/user-attachments/assets/4dc740fb-60b5-4e50-8c8d-c247ce046d3c" />
+
+<img width="360" height="294" alt="day4a" src="https://github.com/user-attachments/assets/565e5aaf-6041-4eb9-b60b-910d5ac0ee2f" />
+
+use Router>enable, then Router# config t to enter Router(config)# mode
+
+use Router(config)# hostname R1 to change hostname.
+
+then Router(config)#enable password CCNA to enable password and you can exit and enter the modes again to confirm
+
+Router(config)# service password-encryption to encrypt the password
+
+Router(config)# do show running-config to view the encypted password
+
+Router(config)# enable secret Cisco to make an even more secure password
+
+Router(config)# do write to copy running config to startup config
+
+Router (config)# do show startup-config to view the startup config
+
+Here is the result:
+---
+<img width="270" height="242" alt="day4c" src="https://github.com/user-attachments/assets/af192ea5-1ee4-4812-84a5-32ce7286de93" />
