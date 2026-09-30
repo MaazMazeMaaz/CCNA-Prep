@@ -28,7 +28,7 @@ TCP/IP Model and OSI Model
 <img width="333" height="339" alt="day3b" src="https://github.com/user-attachments/assets/b6ecf6a4-8784-4440-9a7a-683ec51e6f74" />
 
 
-Just using the simulation tool in packet tracer to observe the OSI mode and how the stacked layers work.
+Just using the simulation tool in packet tracer to observe the OSI model and how the stacked layers work.
 
 From my understanding at this point in time:
 
