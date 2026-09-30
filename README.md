@@ -43,6 +43,7 @@ layer 3 uses ip addresses and routers for end to end communication between the h
 Layer 2 uses MAC addresses for hop-hop communication, switches do not count as hops.(frame or L2PDU)
 
 Layer 1 is the physical layer.(bits)
+
 ---
 Day 4:
 
