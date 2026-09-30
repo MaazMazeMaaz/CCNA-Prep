@@ -21,3 +21,25 @@ for R3 and R4 we can use multimode fiber optic cable because the distance is 250
 
 ---
 Day 3:
+TCP/IP Model and OSI Model
+
+<img width="700" height="314" alt="day3" src="https://github.com/user-attachments/assets/05394fc6-96a6-41d4-b020-2bb6fda79435" />
+
+<img width="333" height="339" alt="day3b" src="https://github.com/user-attachments/assets/b6ecf6a4-8784-4440-9a7a-683ec51e6f74" />
+
+
+Just using the simulation tool in packet tracer to observe the OSI mode and how the stacked layers work.
+
+From my understanding at this point in time:
+
+layer 7 contains protocols regarding the communication between the apps for example HTTP/HTTPS
+
+Layer 5 and 6 are not really used and can be considered a part of the layer 7.
+
+Layer 4 is the transport layer and it encapsulates the port number onto the data from layer 7 to help it reach the end host.(segment for TCP/IP and datagram for UDP)
+
+layer 3 uses ip addresses and routers for end to end communication between the hosts.(packet or L3PDU)
+
+Layer 2 uses MAC addresses for hop-hop communication, switches do not count as hops.(frame or L2PDU)
+
+Layer 1 is the physical layer.(bits)
