@@ -72,3 +72,31 @@ Router (config)# do show startup-config to view the startup config
 Here is the result:
 ---
 <img width="270" height="242" alt="day4c" src="https://github.com/user-attachments/assets/af192ea5-1ee4-4812-84a5-32ce7286de93" />
+
+---
+Day 6: Ethernet Switching
+
+Question:
+
+<img width="374" height="275" alt="day6a" src="https://github.com/user-attachments/assets/25545c0e-1dd3-4753-94c4-3176091dcb0d" />
+
+Answer 2:
+
+<img width="372" height="203" alt="day6b" src="https://github.com/user-attachments/assets/a5948372-cac0-46a4-90ea-36ba431f4c2c" />
+
+<img width="923" height="446" alt="day6c" src="https://github.com/user-attachments/assets/c3b7f202-a503-4659-87d0-cb5e129b9427" />
+
+Answer 4:
+
+<img width="296" height="156" alt="day6d" src="https://github.com/user-attachments/assets/ca3c0b3b-3729-4172-8872-5f6bd5621110" />
+
+<img width="308" height="144" alt="day6e" src="https://github.com/user-attachments/assets/a9f5cd56-883b-48a1-b1a5-e5b9fb91ec3e" />
+
+Answer 5:
+
+<img width="282" height="141" alt="day6f" src="https://github.com/user-attachments/assets/dcb8b9e2-c7d1-4e2e-8cb4-5036006c5151" />
+
+---
+
+
+
