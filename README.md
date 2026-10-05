@@ -98,5 +98,22 @@ Answer 5:
 
 ---
 
+Day 8:
+
+Tasks:
+
+<img width="237" height="276" alt="day8Q" src="https://github.com/user-attachments/assets/1f989ccb-3374-4a94-b861-297d3e972878" />
+
+Solutions:
+-----
+<img width="420" height="63" alt="day8a" src="https://github.com/user-attachments/assets/941f80c3-2fee-4fb8-a8fc-78c3fc524c14" />
+
+---
+<img width="431" height="390" alt="day8c" src="https://github.com/user-attachments/assets/e9692312-00c2-4c9a-9314-b82db2641db8" />
+
+---
+<img width="429" height="392" alt="day8b" src="https://github.com/user-attachments/assets/2fceb65e-7eda-4a0d-a0ff-13e745966a02" />
+
+------
 
 
