@@ -115,5 +115,18 @@ Solutions:
 <img width="429" height="392" alt="day8b" src="https://github.com/user-attachments/assets/2fceb65e-7eda-4a0d-a0ff-13e745966a02" />
 
 ------
+Day 11 P1:
+
+Task:
+
+<img width="789" height="477" alt="image" src="https://github.com/user-attachments/assets/fd72440c-10cd-4a86-b674-efd68239ffe9" />
+
+---
+After Config and Ping from PC1 to PC2:
+
+<img width="741" height="330" alt="image" src="https://github.com/user-attachments/assets/9d483222-e44b-4ca8-b1c6-abf0f0e558b3" />
+
+---
+
 
 
