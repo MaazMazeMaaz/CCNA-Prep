@@ -127,6 +127,30 @@ After Config and Ping from PC1 to PC2:
 <img width="741" height="330" alt="image" src="https://github.com/user-attachments/assets/9d483222-e44b-4ca8-b1c6-abf0f0e558b3" />
 
 ---
+Day 15: VLSM
+-
 
+Task:
 
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/18d4193c-b3ae-4ba8-beb7-ca3edae77499" />
+
+---
+After Configs:
+
+---
+PC1-PC4:
+
+<img width="783" height="612" alt="image" src="https://github.com/user-attachments/assets/518ca300-58e6-4cce-990c-eae39da9a580" />
+
+---
+PC2-PC3:
+
+<img width="774" height="600" alt="image" src="https://github.com/user-attachments/assets/5fa2e044-86b0-4302-8ada-4794846ae6f5" />
+
+---
+PC4-PC3:
+
+<img width="774" height="603" alt="image" src="https://github.com/user-attachments/assets/7d9878c6-3cea-4267-953e-6a3e333198a8" />
+
+---
 
